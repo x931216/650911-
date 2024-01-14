@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+header{
+    background-color: #231C1A;
+    height: 80px;
+    width: 100%;
+    position: relative;
+}
+
+h1{
+    color: white ;
+    font-size: 36px;
+}
+h1{
+    position: absolute;
+    left: 120px;
+    top:0;
+    line-height: 80px;
+
+}
+
+header ul{
+    position:absolute;
+    right: 5vw;
+    top:0;
+    line-height: 80px;
+}
+
+header li{
+    display: inline;
+    margin-right:4vw;
+}
+
+
+header a{
+    color:white;
+    text-decoration: none;
+}
+header a:hover{
+    text-decoration: underline;
+}
+
+P{
+    color:  blue;
+    font-size: 36px;
+}
+
+.slogan{
+  background-color: antiquewhite;
+  color: white;
+  height: 85vh;
+}
